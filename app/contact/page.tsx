@@ -15,6 +15,18 @@ export default function Example() {
           className="absolute inset-0 -z-10 animate-fade-in"
           quantity={100}
         />
+<div className="-translate-y-full">
+<h1 className="py-3.5 px-0.5 z-10 text-3xl text-transparent duration-1000 bg-white cursor-default font-display xs:text-xl 1_xs:text-2xl 2_xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl whitespace-nowrap bg-clip-text">
+          <span className="text-green-500">Christopher@DESKTOP</span>
+          <span className="text-white">:</span>
+          <span className="text-blue-500">~</span>
+          <span className="text-white">$ cd projects</span>
+      </h1>
+
+
+      </div>
+
+
     </div>
 	)
 	
