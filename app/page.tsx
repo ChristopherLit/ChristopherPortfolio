@@ -30,6 +30,7 @@ export default function Home() {
           className="absolute inset-0 -z-10 animate-fade-in"
           quantity={100}
         />
+        
        <h1 className="py-3.5 px-0.5 z-10 text-3xl text-transparent duration-1000 bg-white cursor-default animate-title font-display xs:text-xl 1_xs:text-2xl 2_xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl whitespace-nowrap bg-clip-text">
           <span className="text-green-500">Christopher@DESKTOP</span>
           <span className="text-white">:</span>
