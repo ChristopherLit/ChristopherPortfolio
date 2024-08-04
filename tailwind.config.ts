@@ -102,6 +102,13 @@ module.exports = {
 					},
 				},
 			},
+
+			screens: {
+				'xs': '300px',
+				'1_xs': '400px',
+				'2_xs': '500px',
+
+			  },
 		},
 	},
 	plugins: [
